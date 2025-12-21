@@ -19,7 +19,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thanetraj&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=thanetraj&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
