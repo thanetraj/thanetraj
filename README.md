@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm currently Student <br>📚 I'm currently learning Computer Science <br>👬 I'm looking to collaborate on A.I. Engg.<br>🤝 I'm looking for help with train me<br>💬 Ask about me<br>💫 Fun Fact<br>    ⚡ Romantic Talk<br>    ⚡ Playing Games (eSports)<br>    ⚡ Chil Out
+👨‍🎓 I'm currently Student <br>📚 I'm currently learning Computer Science <br>👬 I'm looking to collaborate on A.I. Engg.<br>🤝 I'm looking for help with train me<br>💬 Ask about me<br>💫 Fun Fact<br>    ⚡ Romantic Talk<br>    ⚡ Playing Games (eSports)<br>    ⚡ Chill Out
 
 
 ## 🌐 Socials:
